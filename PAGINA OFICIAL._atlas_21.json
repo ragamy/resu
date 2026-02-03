@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"WhatsAppImage20260131at80029AM":
+{
+	"frame": {"x":0,"y":0,"w":1536,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1536,"h":1024},
+	"sourceSize": {"w":1536,"h":1024}
+},
+"banner14copia_0":
+{
+	"frame": {"x":0,"y":1026,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+},
+"banner14copia_1":
+{
+	"frame": {"x":0,"y":1378,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "PAGINA OFICIAL._atlas_21.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

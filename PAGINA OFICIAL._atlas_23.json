@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"banner14copia_15":
+{
+	"frame": {"x":0,"y":0,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+},
+"banner14copia_16":
+{
+	"frame": {"x":0,"y":352,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+},
+"banner14copia_17":
+{
+	"frame": {"x":0,"y":704,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+},
+"banner14copia_18":
+{
+	"frame": {"x":0,"y":1056,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+},
+"banner14copia_19":
+{
+	"frame": {"x":0,"y":1408,"w":1024,"h":350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":350},
+	"sourceSize": {"w":1024,"h":350}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "20.5.1.31044",
+	"image": "PAGINA OFICIAL._atlas_23.png",
+	"format": "undefined",
+	"size": {"w":1024,"h":2048},
+	"scale": "1"
+}
+}
